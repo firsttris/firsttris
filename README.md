@@ -13,7 +13,7 @@
 ![ESPHome](https://img.shields.io/badge/-ESPHome-000000?style=flat-square&logo=esphome&logoColor=white)
 ![Kodi](https://img.shields.io/badge/-Kodi-17B2E7?style=flat-square&logo=kodi&logoColor=white)
 
-> I design and break software so you don't have to. Building developer tools, smart home solutions, and streaming apps.
+> Building developer tools, smart home solutions, and streaming apps.
 
 ## Current Projects
 
