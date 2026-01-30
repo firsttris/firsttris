@@ -3,17 +3,17 @@
 📍 **Bühl, Germany** | 💻 **Full-Stack Developer** | 🏢 **[Teufel IT](https://teufel-it.de)**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
 ![ESPHome](https://img.shields.io/badge/-ESPHome-000000?style=flat-square&logo=esphome&logoColor=white)
 ![Kodi](https://img.shields.io/badge/-Kodi-17B2E7?style=flat-square&logo=kodi&logoColor=white)
 
-> I design and break software so you don't have to. Building developer tools, smart home solutions, and media streaming apps.
+> I design and break software so you don't have to. Building developer tools, smart home solutions, and streaming apps.
 
 ## Current Projects
 
@@ -52,9 +52,8 @@
 ## What I'm Doing
 
 - **Building developer tools** - VS Code extensions, Chrome extensions, CLI tools
-- **Smart home tinkering** - HomeMatic, ESPHome, Zigbee, Thread, Node-RED
+- **Smart home tinkering** - HomeMatic, ESPHome, Zigbee, Thread
 - **Media streaming** - Kodi addons and browser integrations
-- **IoT experiments** - Raspberry Pi, ESP32, RFID projects
 
 ## Connect
 
