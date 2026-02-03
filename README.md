@@ -31,7 +31,7 @@
 - 🧹 **[oneclickhistorycleaner](https://github.com/firsttris/oneclickhistorycleaner)** - One-click history cleaner for Chrome
 
 ### VSCode Extensions
-- 🧪 **[vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner)** - Run or debug Jest tests from VS Code with a single click
+- 🧪 **[vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner)** - Run and debug Jest, Vitest, Node.js, Bun, and Deno tests with ease, right from your editor.
 - 📦 **[vscode-distrobox-reveal](https://github.com/firsttris/vscode-distrobox-reveal)** - Distrobox integration for VS Code
 - 🗣️ **[vscode-speech-language-switch](https://github.com/firsttris/vscode-speech-language-switch)** - VS Code speech language switching
 
