@@ -16,6 +16,7 @@
 
 Looking for a developer who values **software architecture**, **clean code**, and **test automation**?
 I'm open for freelance projects — from consulting and code reviews to hands-on development.
+Stuck on an outdated framework? I can help modernize your codebase.
 
 [![Website](https://img.shields.io/badge/-Let's_talk-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://teufel-it.de) [![Email](https://img.shields.io/badge/-Contact_me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tristanteufel@googlemail.com)
 
