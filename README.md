@@ -18,7 +18,7 @@
 I’m a **Software Architect & Developer Experience enthusiast.** I enjoy building things that make development less painful and systems more resilient.
 Currently doing some heavy lifting in enterprise environments, but always keeping my hands dirty with Open Source.
 
-## Specialized Architecture & Consulting
+## Specialized Consulting
 
 I help companies bridge the gap between complex requirements and maintainable, high-quality software.
 With a decade of enterprise experience and deep developer tooling knowledge, I make your codebase an asset, not a liability.
