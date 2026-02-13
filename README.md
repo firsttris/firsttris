@@ -15,9 +15,17 @@ Currently doing some heavy lifting in enterprise environments, but always keepin
 
 ## Available for Freelance
 
-Looking for a developer who values **software architecture**, **clean code**, and **test automation**?
-I'm open for freelance projects — from consulting and code reviews to hands-on development.
-Stuck on an outdated framework version? I can help modernize your codebase.
+**Available for Freelance Projects**
+
+Need a Software Architect who actually lives **clean code** and **test automation**?
+I help teams build resilient systems and scale developer velocity.
+
+How I can help:
+- **Architecture Consulting & Code Reviews**: expert feedback on system design and technical decisions.
+- **Modernization & Refactoring**: migrate legacy codebases to modern, maintainable stacks.
+- **DevEx & Tooling**: build testing and automation infrastructure based on real-world tooling experience.
+
+Let's build something that lasts.
 
 [![Website](https://img.shields.io/badge/-Let's_talk-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://teufel-it.de) [![Email](https://img.shields.io/badge/-Contact_me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tristanteufel@googlemail.com)
 
