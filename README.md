@@ -13,6 +13,7 @@
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/-Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
 
 I’m a **Software Architect & Developer Experience enthusiast.** I enjoy building things that make development less painful and systems more resilient.
 Currently doing some heavy lifting in enterprise environments, but always keeping my hands dirty with Open Source.
