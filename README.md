@@ -15,8 +15,6 @@ Currently doing some heavy lifting in enterprise environments, but always keepin
 
 ## Available for Freelance
 
-**Available for Freelance Projects**
-
 Need a Software Architect who actually lives **clean code** and **test automation**?
 I help teams build resilient systems and scale developer velocity.
 
