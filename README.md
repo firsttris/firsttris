@@ -14,7 +14,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-I’m a **Software Architect & DevEx enthusiast.** I enjoy building things that make development less painful and systems more resilient.
+I’m a **Software Architect & Developer Experience enthusiast.** I enjoy building things that make development less painful and systems more resilient.
 Currently doing some heavy lifting in enterprise environments, but always keeping my hands dirty with Open Source.
 
 ## Specialized Architecture & Consulting
@@ -23,7 +23,7 @@ I help companies bridge the gap between complex requirements and maintainable, h
 With a decade of enterprise experience and deep developer tooling knowledge, I make your codebase an asset, not a liability.
 
 How I can support your team:
-- **Architecture & Strategic Consulting**: expert feedback on system design and scaling Node.js/TypeScript ecosystems.
+- **Architecture & Strategic Consulting**: expert feedback on system design and scaling modern software ecosystems.
 - **Modernization & Refactoring**: migrate legacy codebases to modern, clean, testable, high-performance stacks.
 - **Developer Experience (DevEx) & Tooling**: build testing and automation infrastructure based on my experience with 2M+ users. I help teams build resilient systems and scale developer velocity.
 
