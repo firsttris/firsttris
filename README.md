@@ -10,7 +10,8 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-
+I’m a Software Architect and DevEx enthusiast. I enjoy building things that make development less painful and systems more resilient.
+Currently doing some heavy lifting in enterprise environments, but always keeping my hands dirty with Open Source.
 
 ## Available for Freelance
 
@@ -20,9 +21,9 @@ Stuck on an outdated framework version? I can help modernize your codebase.
 
 [![Website](https://img.shields.io/badge/-Let's_talk-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://teufel-it.de) [![Email](https://img.shields.io/badge/-Contact_me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tristanteufel@googlemail.com)
 
-## Current Projects
+## Things I built because I needed them
 
-### WebUIs
+### PWA's
 - 🖥️ **[ccu-addon-mui](https://github.com/firsttris/ccu-addon-mui)** - Modern PWA interface for HomeMatic CCU3
 - 🗄️ **[snapraid-ui](https://github.com/firsttris/snapraid-ui)** - Web interface for SnapRAID management
 - 💨 **[reactive-volcano-app](https://github.com/firsttris/reactive-volcano-app)** - Control Storz & Bickel vaporizers via Bluetooth
@@ -69,13 +70,13 @@ Stuck on an outdated framework version? I can help modernize your codebase.
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/firsttris)
 
-## What I’m Working On
+## What I'm known for:
 
-- 🚀 Building developer tools and automation solutions
-- 🏠 Creating smart home integrations and web apps
-- 🧪 Developing browser and VS Code extensions
-- 🧹 Focusing on clean code and test automation
-- 🌐 Exploring new tech in web, IoT, and cloud
+🚀 vscode-jest-runner: My contribution to the JS testing ecosystem. Used by thousands of developers to keep their Testing flow smooth.
+
+🏠 IoT & Hardware: Hacking everything from HomeMatic to Bluetooth-controlled devices. If it has an API (or I can reverse-engineer one), I’ll automate it.
+
+🏗️ Clean Architecture: I’m a big believer in code that stays maintainable even when the requirements go wild.
 
 ## Connect
 
