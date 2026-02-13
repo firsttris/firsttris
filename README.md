@@ -76,11 +76,6 @@ Let's build something that lasts.
 - ⏱️ **[react-track](https://github.com/firsttris/react-track)** - Time tracking app with simple reporting
 - 📹 **[chrome.ipcamviewer](https://github.com/firsttris/chrome.ipcamviewer)** - Chrome IP camera viewer and monitor
 
-
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/firsttris)
-
 ## What I'm known for:
 
 🚀 vscode-jest-runner: My contribution to the JS testing ecosystem. Used by thousands of developers to keep their Testing flow smooth.
