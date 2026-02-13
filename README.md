@@ -10,7 +10,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-I’m a Software Architect and DevEx enthusiast. I enjoy building things that make development less painful and systems more resilient.
+I’m a **Software Architect & DevEx enthusiast.** I enjoy building things that make development less painful and systems more resilient.
 Currently doing some heavy lifting in enterprise environments, but always keeping my hands dirty with Open Source.
 
 ## Available for Freelance
