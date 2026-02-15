@@ -26,7 +26,7 @@ With a decade of enterprise experience and deep developer tooling knowledge, I m
 How I can support your team:
 - **Architecture & Strategic Consulting**: expert feedback on system design and scaling modern software ecosystems.
 - **Modernization & Refactoring**: migrate legacy codebases to modern, clean, testable, high-performance stacks.
-- **Developer Experience (DevEx) & Tooling**: build testing and automation infrastructure based on my experience with 2M+ users. I help teams build resilient systems and scale developer velocity.
+- **Developer Experience (DevEx) & Tooling**: build testing and automation infrastructure based on my experience with thousands of users. I help teams build resilient systems and scale developer velocity.
 
 Let's build something that lasts.
 
