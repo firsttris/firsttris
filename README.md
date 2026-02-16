@@ -15,7 +15,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Podman](https://img.shields.io/badge/-Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
 
-I’m a **Software Architect & Developer Experience enthusiast.** I enjoy building things that make development less painful and systems more resilient.
+I’m a **Software Architect & Developer Experience Expert.** I enjoy building things that make development less painful and systems more resilient.
 Currently doing some heavy lifting in enterprise environments, but always keeping my hands dirty with Open Source.
 
 ## Specialized Consulting
