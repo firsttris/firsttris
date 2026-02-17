@@ -47,7 +47,7 @@ Let's build something that lasts.
 - 🧹 **[oneclickhistorycleaner](https://github.com/firsttris/oneclickhistorycleaner)** - One-click browsing history cleaner for Chrome
 
 ### VSCode Extensions
-- 🧪 **[vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner)** - The industry-standard Test integration for VS Code. High-performance test orchestration used by 2M+ developers to maintain velocity in complex Monorepos.
+- 🧪 **[vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner)** - The industry-standard Test integration for VS Code. High-performance test orchestration used by thousands of developers to maintain velocity in complex Monorepos.
 - 📦 **[vscode-distrobox-reveal](https://github.com/firsttris/vscode-distrobox-reveal)** - Reveal Folder in Host Explorer from Distrobox containers directly in VS Code
 - 🗣️ **[vscode-speech-language-switch](https://github.com/firsttris/vscode-speech-language-switch)** - Quickly switch VS Code speech recognition language
 
