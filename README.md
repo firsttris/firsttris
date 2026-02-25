@@ -84,6 +84,10 @@ Let's build something that lasts.
 
 🏗️ Clean Architecture: I’m a big believer in code that stays maintainable even when the requirements go wild.
 
+## Beyond Coding: Catch Me Wingfoiling on Rivers
+
+![Wingfoiling](./Wingfoiling.jpeg)
+
 ## Connect
 
 [![Website](https://img.shields.io/badge/-teufel--it.de-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://teufel-it.de)
