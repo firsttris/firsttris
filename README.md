@@ -88,6 +88,8 @@ Let's build something that lasts.
 
 ![Wingfoiling](./Wingfoiling.jpeg)
 
+[![Instagram](https://img.shields.io/badge/-Follow_me_on_Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tristan.teufel/)
+
 ## Connect
 
 [![Website](https://img.shields.io/badge/-teufel--it.de-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://teufel-it.de)
