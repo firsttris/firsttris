@@ -84,7 +84,7 @@ Let's build something that lasts.
 
 🏗️ Clean Architecture: I’m a big believer in code that stays maintainable even when the requirements go wild.
 
-## Beyond Coding: Catch Me Wingfoiling on Rivers
+## Beyond Coding: Catch Me Wingfoiling
 
 ![Wingfoiling](./Wingfoiling.jpeg)
 
