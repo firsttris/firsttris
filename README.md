@@ -28,6 +28,8 @@ How I can support your team:
 - **Modernization & Refactoring**: migrate legacy codebases to modern, clean, testable, high-performance stacks.
 - **Developer Experience & Tooling**: build testing and automation infrastructure, drawing on years of maintaining developer tools used by thousands of developers.
 
+📅 **Available for new projects from January 2027.**
+
 Past projects and references: see my [CV](https://cv.teufel-it.de).
 
 Let's build something that lasts.
@@ -98,3 +100,9 @@ Let's build something that lasts.
 [![CV](https://img.shields.io/badge/-CV-4CAF50?style=flat-square&logo=read-the-docs&logoColor=white)](https://cv.teufel-it.de)
 [![LinkedIn](https://img.shields.io/badge/-Tristan_Teufel-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tristanteufel)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/firsttris)
+
+## Off the keyboard
+
+When I'm not coding, you'll find me on the water 🌊
+
+<img src="Wingfoiling.jpeg" alt="Tristan wingfoiling" width="400">
