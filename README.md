@@ -44,46 +44,72 @@ Let's build something that lasts.
 
 ## Things I built because I needed them
 
-### Self-hosted & Homelab
+<details open>
+<summary><b>🏠 Self-hosted & Homelab</b> (5)</summary>
+
 - 🏷️ **[namarr](https://github.com/firsttris/namarr)** - Self-hosted renamer for movies, series and anime with preview and undo
 - 📥 **[haul](https://github.com/firsttris/haul)** - Self-hosted download manager for file hosters, built with Rust
 - 🎛️ **[quadeck](https://github.com/firsttris/quadeck)** - Zero-config dashboard for Podman servers with Quadlets, shipped as a single binary
 - 🗄️ **[snapraid-ui](https://github.com/firsttris/snapraid-ui)** - Clean web dashboard for SnapRAID status, sync, and scrub
 - 🧾 **[haben](https://github.com/firsttris/haben)** - Self-hosted bookkeeping for freelancers with ELSTER VAT returns (work in progress)
 
-### PWAs
+</details>
+
+<details>
+<summary><b>📱 PWAs</b> (5)</summary>
+
 - 🖥️ **[ccu-addon-mui](https://github.com/firsttris/ccu-addon-mui)** - Modern PWA UI for HomeMatic CCU3 with dashboards and device control
 - 💨 **[reactive-volcano-app](https://github.com/firsttris/reactive-volcano-app)** - Bluetooth control panel for Storz & Bickel vaporizers
 - ✈️ **[Flugwetterdaten](https://github.com/firsttris/Flugwetterdaten)** - METAR/TAF viewer and flight weather data for Baden-Airpark
 - 📄 **[astro-cv](https://github.com/firsttris/astro-cv)** - CV site built with Astro and a content-first layout
 - 🌐 **[teufel-it-astro](https://github.com/firsttris/teufel-it-astro)** - Teufel IT website built with Astro, optimized for speed
 
-### Desktop Apps
-- 🍷 **[prefixr](https://github.com/firsttris/prefixr)** - Native Linux app for managing Wine and Proton prefixes, built with Tauri, SvelteKit and Rust
+</details>
 
-### VS Code Extensions
+<details>
+<summary><b>🧰 Apps & Tools</b> (2)</summary>
+
+- 🍷 **[prefixr](https://github.com/firsttris/prefixr)** - Native Linux app for managing Wine and Proton prefixes, built with Tauri, SvelteKit and Rust
+- 📞 **[snom-xml](https://github.com/firsttris/snom-xml)** - Sync Google Contacts to Snom IP phones via XML
+
+</details>
+
+<details>
+<summary><b>🧩 VS Code Extensions</b> (3)</summary>
+
 - 🧪 **[vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner)** - Run and debug tests for all major JS runtimes and frameworks from your editor
 - 📦 **[vscode-distrobox-reveal](https://github.com/firsttris/vscode-distrobox-reveal)** - Reveal Folder in Host Explorer from Distrobox containers directly in VS Code
 - 🗣️ **[vscode-speech-language-switch](https://github.com/firsttris/vscode-speech-language-switch)** - Quickly switch VS Code speech recognition language
 
-### Chrome Extensions
+</details>
+
+<details>
+<summary><b>🌐 Chrome Extensions</b> (2)</summary>
+
 - 🎬 **[chrome.sendtokodi](https://github.com/firsttris/chrome.sendtokodi)** - Send web video streams to Kodi with one click
 - 🧹 **[oneclickhistorycleaner](https://github.com/firsttris/oneclickhistorycleaner)** - One-click browsing history cleaner for Chrome
 
-### Kodi Plugins
+</details>
+
+<details>
+<summary><b>📺 Kodi Plugins</b> (2)</summary>
+
 - 📺 **[plugin.video.sendtokodi](https://github.com/firsttris/plugin.video.sendtokodi)** - Stream URLs to Kodi using yt-dlp
 - 🏠 **[repository.sendtokodi](https://github.com/firsttris/repository.sendtokodi)** - Kodi repository for SendToKodi add-ons
 
-### Smart Home
+</details>
+
+<details>
+<summary><b>💡 Smart Home</b> (3)</summary>
+
 - ⚡ **[esphome-energy-dashboard](https://github.com/firsttris/esphome-energy-dashboard)** - ESPHome-based energy dashboard with realtime charts
 - 🧵 **[esp32c6-thread-router](https://github.com/firsttris/esp32c6-thread-router)** - ESP32-C6 Thread router to extend mesh coverage
 - 📡 **[esp32c6-zigbee-router](https://github.com/firsttris/esp32c6-zigbee-router)** - ESP32-C6 Zigbee router to extend network coverage
 
-### Tools
-- 📞 **[snom-xml](https://github.com/firsttris/snom-xml)** - Sync Google Contacts to Snom IP phones via XML
+</details>
 
 <details>
-<summary><b>Archived Projects</b></summary>
+<summary><b>🗃️ Archived Projects</b> (6)</summary>
 
 - 📡 **[mfrc522-rpi](https://github.com/firsttris/mfrc522-rpi)** - MFRC522 RFID control library for Raspberry Pi
 - 📦 **[html-webpack-multi-build-plugin](https://github.com/firsttris/html-webpack-multi-build-plugin)** - Webpack plugin for modern/legacy dual builds
@@ -105,4 +131,4 @@ Let's build something that lasts.
 
 When I'm not coding, you'll find me on the water 🌊
 
-<img src="Wingfoiling.jpeg" alt="Tristan wingfoiling" width="400">
+<img src="Wingfoiling.jpeg" alt="Tristan wingfoiling" width="300">
