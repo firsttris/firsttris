@@ -77,7 +77,6 @@ Let's build something that lasts.
 
 ### Tools
 - 📞 **[snom-xml](https://github.com/firsttris/snom-xml)** - Sync Google Contacts to Snom IP phones via XML
-- 🛍️ **[Gong-Second-Hand-Dashboard](https://github.com/firsttris/Gong-Second-Hand-Dashboard)** - Static dashboard that watches second-hand offers and emails new matches
 
 <details>
 <summary><b>Archived Projects</b></summary>
