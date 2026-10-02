@@ -28,13 +28,15 @@ How I can support your team:
 - **Modernization & Refactoring**: migrate legacy codebases to modern, clean, testable, high-performance stacks.
 - **Developer Experience & Tooling**: build testing and automation infrastructure, drawing on years of maintaining developer tools used by thousands of developers.
 
+Past projects and references: see my [CV](https://cv.teufel-it.de).
+
 Let's build something that lasts.
 
-[![Website](https://img.shields.io/badge/-Let's_talk-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://teufel-it.de) [![Email](https://img.shields.io/badge/-Contact_me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tristanteufel@googlemail.com)
+[![Website](https://img.shields.io/badge/-Let's_talk-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://teufel-it.de) [![Email](https://img.shields.io/badge/-Contact_me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:info@teufel-it.de)
 
 ## What I'm known for
 
-🧪 **[vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner)**: run and debug Jest, Vitest, Rstest, Node.js, Bun, Deno and Playwright tests right from VS Code. Maintained since 2017, 300+ stars and 140+ forks on GitHub.
+🧪 **[vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner)**: run and debug Jest, Vitest, Rstest, Node.js, Bun, Deno and Playwright tests right from VS Code. **2.2M+ installs** on the VS Code Marketplace, maintained since 2017.
 
 📺 **[plugin.video.sendtokodi](https://github.com/firsttris/plugin.video.sendtokodi)**: stream almost any video site to Kodi via yt-dlp. 200+ stars.
 
