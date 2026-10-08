@@ -111,7 +111,5 @@ Let's build something that lasts.
 ## Off the keyboard
 
 When I'm not coding, you'll find me on the water 🌊
-Before heading out I check wind and water level with [my own weather page](https://wetter.teufel-it.de) for the spot at Baden-Airpark.
-On calm days I'm practicing [freestyle skateboard tricks](https://github.com/firsttris/Freestyle-Skateboard-Tricks) instead 🛹
 
 <img src="Wingfoiling.jpeg" alt="Tristan wingfoiling" width="400">
