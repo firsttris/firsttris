@@ -38,48 +38,51 @@ Let's build something that lasts.
 
 ## What I'm known for
 
-🧪 **[vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner)**: run and debug Jest, Vitest, Rstest, Node.js, Bun, Deno and Playwright tests right from VS Code. **2.2M+ installs** on the VS Code Marketplace, maintained since 2017.
+🧪 **[vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner)**: run and debug Jest, Vitest, Playwright, Rstest, Bun, Deno and Node.js tests right from VS Code, zero configuration. Maintained since 2017.<br>
+[![Installs](https://vsmarketplacebadges.dev/installs-short/firsttris.vscode-jest-runner.svg)](https://marketplace.visualstudio.com/items?itemName=firsttris.vscode-jest-runner) [![Stars](https://img.shields.io/github/stars/firsttris/vscode-jest-runner?style=flat-square)](https://github.com/firsttris/vscode-jest-runner)
 
-📺 **[plugin.video.sendtokodi](https://github.com/firsttris/plugin.video.sendtokodi)**: stream almost any video site to Kodi via yt-dlp. 200+ stars.
+📺 **[SendToKodi](https://github.com/firsttris/plugin.video.sendtokodi)**: play YouTube, Twitch, Vimeo and 1000+ other sites on Kodi via yt-dlp, with a [browser extension](https://github.com/firsttris/chrome.sendtokodi) for Chrome, Firefox and Edge.<br>
+[![Stars](https://img.shields.io/github/stars/firsttris/plugin.video.sendtokodi?style=flat-square)](https://github.com/firsttris/plugin.video.sendtokodi)
 
 ## Things I built because I needed them
 
 ### Self-hosted & Homelab
-- 🏷️ **[namarr](https://github.com/firsttris/namarr)** - Self-hosted renamer for movies, series and anime with preview and undo
-- 📥 **[haul](https://github.com/firsttris/haul)** - Self-hosted download manager for file hosters, built with Rust
-- 🎛️ **[quadeck](https://github.com/firsttris/quadeck)** - Zero-config dashboard for Podman servers with Quadlets, shipped as a single binary
-- 🗄️ **[snapraid-ui](https://github.com/firsttris/snapraid-ui)** - Clean web dashboard for SnapRAID status, sync, and scrub
-- 🧾 **[haben](https://github.com/firsttris/haben)** - Self-hosted bookkeeping for freelancers with ELSTER VAT returns (work in progress)
+- 🎛️ **[quadeck](https://github.com/firsttris/quadeck)** - Web UI and server console for Podman Quadlets and systemd: containers, updates, disks, backups, shares. One binary, nothing to configure
+- 🗄️ **[snapraid-ui](https://github.com/firsttris/snapraid-ui)** - Web UI for SnapRAID: scheduled sync and scrub, SMART disk health, alerts and guided disk replacement
+- 🏷️ **[namarr](https://github.com/firsttris/namarr)** - FileBot alternative: renames movies, series and anime for Plex, Jellyfin, Emby and Kodi, with preview and undo
+- 📥 **[haul](https://github.com/firsttris/haul)** - Headless JDownloader and pyLoad alternative for file hosters, written in Rust, with Click'n'Load
+- 🧾 **[haben](https://github.com/firsttris/haben)** - Bookkeeping for German freelancers: e-invoices (ZUGFeRD, XRechnung), bank reconciliation, EÜR and VAT returns via ELSTER. A self-hosted alternative to lexoffice and sevDesk
 
-### PWAs
-- 🖥️ **[ccu-addon-mui](https://github.com/firsttris/ccu-addon-mui)** - Modern PWA UI for HomeMatic CCU3 with dashboards and device control
-- 💨 **[reactive-volcano-app](https://github.com/firsttris/reactive-volcano-app)** - Bluetooth control panel for Storz & Bickel vaporizers
-- ✈️ **[Flugwetterdaten](https://github.com/firsttris/Flugwetterdaten)** - METAR/TAF viewer and flight weather data for Baden-Airpark
-- 📄 **[astro-cv](https://github.com/firsttris/astro-cv)** - CV site built with Astro and a content-first layout
-- 🌐 **[teufel-it-astro](https://github.com/firsttris/teufel-it-astro)** - Teufel IT website built with Astro, optimized for speed
+### Smart Home
+- 🏠 **[ccu-addon-mui](https://github.com/firsttris/ccu-addon-mui)** - The complete WebUI for Homematic CCU3 and OpenCCU, rebuilt: control, pair, link and program devices, live over WebSocket, installable as an app
+- ⚡ **[esphome-energy-dashboard](https://github.com/firsttris/esphome-energy-dashboard)** - Live energy flow (solar, grid, battery, gas) on an ESP32-S3 touch display
+- 🧵 **[esp32c6-thread-router](https://github.com/firsttris/esp32c6-thread-router)** - Turn a cheap ESP32-C6 into a Thread router to extend your mesh
+- 📡 **[esp32c6-zigbee-router](https://github.com/firsttris/esp32c6-zigbee-router)** - Turn a cheap ESP32-C6 into a Zigbee router to extend your mesh
 
 ### Desktop Apps
-- 🍷 **[prefixr](https://github.com/firsttris/prefixr)** - Native Linux app for managing Wine and Proton prefixes, built with Tauri, SvelteKit and Rust
+- 🍷 **[prefixr](https://github.com/firsttris/prefixr)** - Linux game launcher for Windows games: Wine and Proton prefixes, Proton-GE downloads, per-game tuning and Steam integration. Built with Tauri, Svelte and Rust
+
+### Web Apps
+- 💨 **[reactive-volcano-app](https://github.com/firsttris/reactive-volcano-app)** - Web Bluetooth app for Storz & Bickel vaporizers (Volcano Hybrid, Venty, Veazy, Crafty). No app store, no account
+- 🌊 **[Flugwetterdaten](https://github.com/firsttris/Flugwetterdaten)** - Wind, water temperature and water level for my wingfoil spot at Baden-Airpark ([live](https://wetter.teufel-it.de))
+- 📄 **[astro-cv](https://github.com/firsttris/astro-cv)** - My CV as a website, built with Astro and MDX ([live](https://cv.teufel-it.de))
+- 🌐 **[teufel-it-astro](https://github.com/firsttris/teufel-it-astro)** - Bilingual Teufel IT website with Astro, Tailwind and a WebGL starfield ([live](https://teufel-it.de))
 
 ### VS Code Extensions
 - 🧪 **[vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner)** - Run and debug tests for all major JS runtimes and frameworks from your editor
-- 📦 **[vscode-distrobox-reveal](https://github.com/firsttris/vscode-distrobox-reveal)** - Reveal Folder in Host Explorer from Distrobox containers directly in VS Code
-- 🗣️ **[vscode-speech-language-switch](https://github.com/firsttris/vscode-speech-language-switch)** - Quickly switch VS Code speech recognition language
+- 📦 **[vscode-distrobox-reveal](https://github.com/firsttris/vscode-distrobox-reveal)** - Reveal files in the host's file manager from inside Distrobox containers
+- 🗣️ **[vscode-speech-language-switch](https://github.com/firsttris/vscode-speech-language-switch)** - Switch the VS Code speech recognition language from the status bar
 
-### Chrome Extensions
-- 🎬 **[chrome.sendtokodi](https://github.com/firsttris/chrome.sendtokodi)** - Send web video streams to Kodi with one click
-- 🧹 **[oneclickhistorycleaner](https://github.com/firsttris/oneclickhistorycleaner)** - One-click browsing history cleaner for Chrome
+### Browser Extensions
+- 🎬 **[chrome.sendtokodi](https://github.com/firsttris/chrome.sendtokodi)** - Send the video you're watching to Kodi with one click (Chrome, Firefox, Edge)
+- 🧹 **[oneclickhistorycleaner](https://github.com/firsttris/oneclickhistorycleaner)** - Clear your browsing data with one click, the way you configured it once (Chrome, Firefox, Edge)
 
-### Kodi Plugins
-- 📺 **[plugin.video.sendtokodi](https://github.com/firsttris/plugin.video.sendtokodi)** - Stream URLs to Kodi using yt-dlp
-- 🏠 **[repository.sendtokodi](https://github.com/firsttris/repository.sendtokodi)** - Kodi repository for SendToKodi add-ons
-
-### Smart Home
-- ⚡ **[esphome-energy-dashboard](https://github.com/firsttris/esphome-energy-dashboard)** - ESPHome-based energy dashboard with realtime charts
-- 🧵 **[esp32c6-thread-router](https://github.com/firsttris/esp32c6-thread-router)** - ESP32-C6 Thread router to extend mesh coverage
-- 📡 **[esp32c6-zigbee-router](https://github.com/firsttris/esp32c6-zigbee-router)** - ESP32-C6 Zigbee router to extend network coverage
+### Kodi Add-ons
+- 📺 **[plugin.video.sendtokodi](https://github.com/firsttris/plugin.video.sendtokodi)** - Play links from 1000+ sites on Kodi using yt-dlp, up to 4K
+- 🏠 **[repository.sendtokodi](https://github.com/firsttris/repository.sendtokodi)** - Kodi repository for SendToKodi
 
 ### Tools
+- ⚙️ **[workflows](https://github.com/firsttris/workflows)** - Shared GitHub Actions for multi-arch Docker releases (amd64 + native arm64), used across my projects
 - 📞 **[snom-xml](https://github.com/firsttris/snom-xml)** - Sync Google Contacts to Snom IP phones via XML
 
 <details>
