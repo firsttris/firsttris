@@ -75,7 +75,6 @@ Let's build something that lasts.
 - 🌊 **[Flugwetterdaten](https://github.com/firsttris/Flugwetterdaten)** - Wind, water temperature and water level for my wingfoil spot at Baden-Airpark ([live](https://wetter.teufel-it.de))
 - 📄 **[astro-cv](https://github.com/firsttris/astro-cv)** - My CV as a website, built with Astro and MDX ([live](https://cv.teufel-it.de))
 - 🌐 **[teufel-it-astro](https://github.com/firsttris/teufel-it-astro)** - Bilingual Teufel IT website with Astro, Tailwind and a WebGL starfield ([live](https://teufel-it.de))
-- 🛍️ **[Gong-Second-Hand-Dashboard](https://github.com/firsttris/Gong-Second-Hand-Dashboard)** - Watches Gong's second-hand offers for gear matching my interests and notifies me via e-mail or Telegram when something new shows up
 
 ### VS Code Extensions
 - 🧪 **[vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner)** - Run and debug tests for all major JS runtimes and frameworks from your editor
