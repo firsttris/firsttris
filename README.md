@@ -56,6 +56,8 @@ Let's build something that lasts.
 - 🏷️ **[namarr](https://github.com/firsttris/namarr)** - FileBot alternative: renames movies, series and anime for Plex, Jellyfin, Emby and Kodi, with preview and undo
 - 📥 **[haul](https://github.com/firsttris/haul)** - Headless JDownloader and pyLoad alternative for file hosters, written in Rust, with Click'n'Load
 - 🧾 **[haben](https://github.com/firsttris/haben)** - Bookkeeping for German freelancers: e-invoices (ZUGFeRD, XRechnung), bank reconciliation, EÜR and VAT returns via ELSTER. A self-hosted alternative to lexoffice and sevDesk
+- 🔁 **[stellwerk](https://github.com/firsttris/stellwerk)** - Central web UI for Syncthing: pair devices, share folders and set paths for every PC from one place, with a hub that keeps a full copy
+- 🪁 **[windfenster](https://github.com/firsttris/windfenster)** - Wind forecast and live wind map for kitesurfing, windsurfing and wing foiling: measured wind, five weather models and which one was right at your spot. A self-hosted alternative to Windfinder and Windy
 
 ### Smart Home
 - 🏠 **[ccu-addon-mui](https://github.com/firsttris/ccu-addon-mui)** - The complete WebUI for Homematic CCU3 and OpenCCU, rebuilt: control, pair, link and program devices, live over WebSocket, installable as an app
@@ -65,6 +67,8 @@ Let's build something that lasts.
 
 ### Desktop Apps
 - 🍷 **[prefixr](https://github.com/firsttris/prefixr)** - Linux game launcher for Windows games: Wine and Proton prefixes, Proton-GE downloads, per-game tuning and Steam integration. Built with Tauri, Svelte and Rust
+- 🖥️ **[fernsicht](https://github.com/firsttris/fernsicht)** - Low-latency remote desktop and game streaming for Linux: about 10 ms glass-to-glass, AMD, Intel and NVIDIA, Wayland and X11, pair once with a PIN
+- 🔑 **[keybund](https://github.com/firsttris/keybund)** - SSH key manager for Linux and macOS: the right key per GitHub/GitLab account, client and server, the right Git e-mail per folder. Plain OpenSSH and Git config underneath
 
 ### Web Apps
 - 💨 **[reactive-volcano-app](https://github.com/firsttris/reactive-volcano-app)** - Web Bluetooth app for Storz & Bickel vaporizers (Volcano Hybrid, Venty, Veazy, Crafty). No app store, no account
