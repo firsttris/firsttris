@@ -64,6 +64,7 @@ Let's build something that lasts.
 - ⚡ **[esphome-energy-dashboard](https://github.com/firsttris/esphome-energy-dashboard)** - Live energy flow (solar, grid, battery, gas) on an ESP32-S3 touch display
 - 🧵 **[esp32c6-thread-router](https://github.com/firsttris/esp32c6-thread-router)** - Turn a cheap ESP32-C6 into a Thread router to extend your mesh
 - 📡 **[esp32c6-zigbee-router](https://github.com/firsttris/esp32c6-zigbee-router)** - Turn a cheap ESP32-C6 into a Zigbee router to extend your mesh
+- 📶 **[funkloch](https://github.com/firsttris/funkloch)** - Signal monitor for Zigbee2MQTT and Thread/Matter devices: LQI and RSSI history, mesh map, heatmap and offline alerts. Self-hosted, no cloud
 
 ### Desktop Apps
 - 🍷 **[prefixr](https://github.com/firsttris/prefixr)** - Linux game launcher for Windows games: Wine and Proton prefixes, Proton-GE downloads, per-game tuning and Steam integration. Built with Tauri, Svelte and Rust
