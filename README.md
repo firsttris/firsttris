@@ -63,6 +63,7 @@ Let's build something that lasts.
 - 🏠 **[ccu-addon-mui](https://github.com/firsttris/ccu-addon-mui)** - The complete WebUI for Homematic CCU3 and OpenCCU, rebuilt: control, pair, link and program devices, live over WebSocket, installable as an app
 - 🧱 **[kachelwerk](https://github.com/firsttris/kachelwerk)** - Home Assistant cards that feel like an app: shutters you drag like a window, lamps that light up their tile, a thermostat dial, a Ferraris meter whose disc turns with your power. Installable via HACS
 - ⚡ **[esphome-energy-dashboard](https://github.com/firsttris/esphome-energy-dashboard)** - Live energy flow (solar, grid, battery, gas) on an ESP32-S3 touch display
+- 🎛️ **[esphome-room-panel](https://github.com/firsttris/esphome-room-panel)** - Animated room control panel for Home Assistant on a 4" ESP32-S3 touch display: lights, shutters, Daikin AC and heating, one YAML line per device
 - 🧵 **[esp32c6-thread-router](https://github.com/firsttris/esp32c6-thread-router)** - Turn a cheap ESP32-C6 into a Thread router to extend your mesh
 - 📡 **[esp32c6-zigbee-router](https://github.com/firsttris/esp32c6-zigbee-router)** - Turn a cheap ESP32-C6 into a Zigbee router to extend your mesh
 - 📶 **[funkloch](https://github.com/firsttris/funkloch)** - Signal monitor for Zigbee2MQTT and Thread/Matter devices: LQI and RSSI history, mesh map, heatmap and offline alerts. Self-hosted, no cloud
