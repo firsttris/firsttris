@@ -73,6 +73,7 @@ Let's build something that lasts.
 - 🍷 **[prefixr](https://github.com/firsttris/prefixr)** - Linux game launcher for Windows games: Wine and Proton prefixes, Proton-GE downloads, per-game tuning and Steam integration. Built with Tauri, Svelte and Rust
 - 🖥️ **[fernsicht](https://github.com/firsttris/fernsicht)** - Low-latency remote desktop and game streaming for Linux: about 10 ms glass-to-glass, AMD, Intel and NVIDIA, Wayland and X11, pair once with a PIN
 - 🔑 **[keybund](https://github.com/firsttris/keybund)** - SSH key manager for Linux and macOS: the right key per GitHub/GitLab account, client and server, the right Git e-mail per folder. Plain OpenSSH and Git config underneath
+- 🎙️ **[pd200x-control](https://github.com/firsttris/pd200x-control)** - Linux app for the Maono PD200X and PD200XS microphone, a MAONO Link alternative: gain, EQ, compressor, limiter and the RGB ring, live level, test recording and a level finder for quiet dynamic mics. Built with Tauri, React and Rust
 
 ### Web Apps
 - 💨 **[reactive-volcano-app](https://github.com/firsttris/reactive-volcano-app)** - Web Bluetooth app for Storz & Bickel vaporizers (Volcano Hybrid, Venty, Veazy, Crafty). No app store, no account
