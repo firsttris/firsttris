@@ -55,9 +55,14 @@ Let's build something that lasts.
 - 🗄️ **[snapraid-ui](https://github.com/firsttris/snapraid-ui)** - Web UI for SnapRAID: scheduled sync and scrub, SMART disk health, alerts and guided disk replacement
 - 🏷️ **[namarr](https://github.com/firsttris/namarr)** - FileBot alternative: renames movies, series and anime for Plex, Jellyfin, Emby and Kodi, with preview and undo
 - 📥 **[haul](https://github.com/firsttris/haul)** - Headless JDownloader and pyLoad alternative for file hosters, written in Rust, with Click'n'Load
-- 🧾 **[haben](https://github.com/firsttris/haben)** - Bookkeeping for German freelancers: e-invoices (ZUGFeRD, XRechnung), bank reconciliation, EÜR and VAT returns via ELSTER. A self-hosted alternative to lexoffice and sevDesk
 - 🔁 **[stellwerk](https://github.com/firsttris/stellwerk)** - Central web UI for Syncthing: pair devices, share folders and set paths for every PC from one place, with a hub that keeps a full copy
 - 🪁 **[windfenster](https://github.com/firsttris/windfenster)** - Wind forecast and live wind map for kitesurfing, windsurfing and wing foiling: measured wind, five weather models and which one was right at your spot. A self-hosted alternative to Windfinder and Windy
+- 💾 **[spielstand](https://github.com/firsttris/spielstand)** - Game save sync and backup for Linux PCs and the Steam Deck: one server at home, a small agent per PC, every version kept and nothing overwritten. A Ludusavi alternative with a web UI
+
+### Self-hosted Office
+- 📬 **[kontext](https://github.com/firsttris/kontext)** - Groupware for small businesses on Stalwart (JMAP): webmail with shared mailboxes, team calendar, contacts as a mini CRM, tasks, team chat with video calls and Fritzbox telephony. A self-hosted alternative to Google Workspace and Microsoft 365
+- 📝 **[schreibzeug](https://github.com/firsttris/schreibzeug)** - Office suite that edits Word, Excel, PowerPoint and PDF files together in real time, in the browser or as a desktop app. No document server, files stay .docx, .xlsx and .pptx
+- 🧾 **[haben](https://github.com/firsttris/haben)** - Bookkeeping for German freelancers: e-invoices (ZUGFeRD, XRechnung), bank reconciliation, EÜR and VAT returns via ELSTER. A self-hosted alternative to lexoffice and sevDesk
 
 ### Smart Home
 - 🏠 **[ccu-addon-mui](https://github.com/firsttris/ccu-addon-mui)** - The complete WebUI for Homematic CCU3 and OpenCCU, rebuilt: control, pair, link and program devices, live over WebSocket, installable as an app
