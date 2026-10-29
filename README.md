@@ -25,12 +25,14 @@ Currently doing some heavy lifting in enterprise environments, but always keepin
 ## Specialized Consulting
 
 I help companies bridge the gap between complex requirements and maintainable, high-quality software.
-With a decade of enterprise experience and deep developer tooling knowledge, I make your codebase an asset, not a liability.
+With enterprise experience since 2012 and deep developer tooling knowledge, I make your codebase an asset, not a liability.
 
 How I can support your team:
 - **Architecture & Strategic Consulting**: expert feedback on system design and scaling modern software ecosystems.
 - **Modernization & Refactoring**: migrate legacy codebases to modern, clean, testable, high-performance stacks.
 - **Developer Experience & Tooling**: build testing and automation infrastructure, drawing on years of maintaining developer tools with over 2 million installs.
+- **Multi-Layer Test Architecture**: unit, integration and end-to-end tests in the CI/CD pipeline that check every change before it goes live.
+- **Agent-Based Development**: bring agents into your development process productively, with clear guardrails, reviews and tests.
 
 📅 **Available for new projects from January 2027.**
 
@@ -39,6 +41,14 @@ Past projects and references: see my [CV](https://cv.teufel-it.de).
 Let's build something that lasts.
 
 [![Website](https://img.shields.io/badge/-Let's_talk-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://teufel-it.de) [![Email](https://img.shields.io/badge/-Contact_me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:info@teufel-it.de)
+
+## Open-source products for small businesses
+
+Built with agentic workflows. Self-hosted, your data stays with you.
+
+- 🧾 **[haben](https://github.com/firsttris/haben)** ([docs](https://firsttris.github.io/haben/)) - Bookkeeping for German freelancers: e-invoices (ZUGFeRD, XRechnung), bank reconciliation, EÜR and VAT returns via ELSTER. A self-hosted alternative to lexoffice and sevDesk
+- 📬 **[kontext](https://github.com/firsttris/kontext)** ([docs](https://firsttris.github.io/kontext/)) - Groupware for small businesses on Stalwart (JMAP): webmail with shared mailboxes, team calendar, contacts as a mini CRM, tasks, team chat with video calls and Fritzbox telephony. A self-hosted alternative to Google Workspace and Microsoft 365
+- 📝 **[schreibzeug](https://github.com/firsttris/schreibzeug)** ([docs](https://firsttris.github.io/schreibzeug/)) - Office suite that edits Word, Excel, PowerPoint and PDF files together in real time, in the browser or as a desktop app. No document server, files stay .docx, .xlsx and .pptx
 
 ## What I'm known for
 
@@ -58,11 +68,6 @@ Let's build something that lasts.
 - 🔁 **[stellwerk](https://github.com/firsttris/stellwerk)** - Central web UI for Syncthing: pair devices, share folders and set paths for every PC from one place, with a hub that keeps a full copy
 - 🪁 **[windfenster](https://github.com/firsttris/windfenster)** - Wind forecast and live wind map for kitesurfing, windsurfing and wing foiling: measured wind, five weather models and which one was right at your spot. A self-hosted alternative to Windfinder and Windy
 - 💾 **[spielstand](https://github.com/firsttris/spielstand)** - Game save sync and backup for Linux PCs and the Steam Deck: one server at home, a small agent per PC, every version kept and nothing overwritten. A Ludusavi alternative with a web UI
-
-### Self-hosted Office
-- 📬 **[kontext](https://github.com/firsttris/kontext)** - Groupware for small businesses on Stalwart (JMAP): webmail with shared mailboxes, team calendar, contacts as a mini CRM, tasks, team chat with video calls and Fritzbox telephony. A self-hosted alternative to Google Workspace and Microsoft 365
-- 📝 **[schreibzeug](https://github.com/firsttris/schreibzeug)** - Office suite that edits Word, Excel, PowerPoint and PDF files together in real time, in the browser or as a desktop app. No document server, files stay .docx, .xlsx and .pptx
-- 🧾 **[haben](https://github.com/firsttris/haben)** - Bookkeeping for German freelancers: e-invoices (ZUGFeRD, XRechnung), bank reconciliation, EÜR and VAT returns via ELSTER. A self-hosted alternative to lexoffice and sevDesk
 
 ### Smart Home
 - 🏠 **[ccu-addon-mui](https://github.com/firsttris/ccu-addon-mui)** - The complete WebUI for Homematic CCU3 and OpenCCU, rebuilt: control, pair, link and program devices, live over WebSocket, installable as an app
