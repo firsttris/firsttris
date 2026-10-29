@@ -42,14 +42,6 @@ Let's build something that lasts.
 
 [![Website](https://img.shields.io/badge/-Let's_talk-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://teufel-it.de) [![Email](https://img.shields.io/badge/-Contact_me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:info@teufel-it.de)
 
-## Open-source products for small businesses
-
-Built with agentic workflows. Self-hosted, your data stays with you.
-
-- 🧾 **[haben](https://github.com/firsttris/haben)** ([docs](https://firsttris.github.io/haben/)) - Bookkeeping for German freelancers: e-invoices (ZUGFeRD, XRechnung), bank reconciliation, EÜR and VAT returns via ELSTER. A self-hosted alternative to lexoffice and sevDesk
-- 📬 **[kontext](https://github.com/firsttris/kontext)** ([docs](https://firsttris.github.io/kontext/)) - Groupware for small businesses on Stalwart (JMAP): webmail with shared mailboxes, team calendar, contacts as a mini CRM, tasks, team chat with video calls and Fritzbox telephony. A self-hosted alternative to Google Workspace and Microsoft 365
-- 📝 **[schreibzeug](https://github.com/firsttris/schreibzeug)** ([docs](https://firsttris.github.io/schreibzeug/)) - Office suite that edits Word, Excel, PowerPoint and PDF files together in real time, in the browser or as a desktop app. No document server, files stay .docx, .xlsx and .pptx
-
 ## What I'm known for
 
 🧪 **[vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner)**: run and debug Jest, Vitest, Playwright, Rstest, Bun, Deno and Node.js tests right from VS Code, zero configuration. Maintained since 2017.<br>
@@ -59,6 +51,11 @@ Built with agentic workflows. Self-hosted, your data stays with you.
 [![Stars](https://img.shields.io/github/stars/firsttris/plugin.video.sendtokodi?style=flat-square)](https://github.com/firsttris/plugin.video.sendtokodi)
 
 ## Things I built because I needed them
+
+### Business Software
+- 🧾 **[haben](https://github.com/firsttris/haben)** ([docs](https://firsttris.github.io/haben/)) - Bookkeeping for German freelancers: e-invoices (ZUGFeRD, XRechnung), bank reconciliation, EÜR and VAT returns via ELSTER. A self-hosted alternative to lexoffice and sevDesk
+- 📬 **[kontext](https://github.com/firsttris/kontext)** ([docs](https://firsttris.github.io/kontext/)) - Groupware for small businesses on Stalwart (JMAP): webmail with shared mailboxes, team calendar, contacts as a mini CRM, tasks, team chat with video calls and Fritzbox telephony. A self-hosted alternative to Google Workspace and Microsoft 365
+- 📝 **[schreibzeug](https://github.com/firsttris/schreibzeug)** ([docs](https://firsttris.github.io/schreibzeug/)) - Office suite that edits Word, Excel, PowerPoint and PDF files together in real time, in the browser or as a desktop app. No document server, files stay .docx, .xlsx and .pptx
 
 ### Self-hosted & Homelab
 - 🎛️ **[quadeck](https://github.com/firsttris/quadeck)** - Web UI and server console for Podman Quadlets and systemd: containers, updates, disks, backups, shares. One binary, nothing to configure
