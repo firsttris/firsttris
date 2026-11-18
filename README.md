@@ -53,18 +53,23 @@ Let's build something that lasts.
 ## Things I built because I needed them
 
 ### Business Software
-- 🧾 **[haben](https://github.com/firsttris/haben)** ([docs](https://firsttris.github.io/haben/)) - Bookkeeping for German freelancers: e-invoices (ZUGFeRD, XRechnung), bank reconciliation, EÜR and VAT returns via ELSTER. A self-hosted alternative to lexoffice and sevDesk
-- 📬 **[kontext](https://github.com/firsttris/kontext)** ([docs](https://firsttris.github.io/kontext/)) - Groupware for small businesses on Stalwart (JMAP): webmail with shared mailboxes, team calendar, contacts as a mini CRM, tasks, team chat with video calls and Fritzbox telephony. A self-hosted alternative to Google Workspace and Microsoft 365
-- 📝 **[schreibzeug](https://github.com/firsttris/schreibzeug)** ([docs](https://firsttris.github.io/schreibzeug/)) - Office suite that edits Word, Excel, PowerPoint and PDF files together in real time, in the browser or as a desktop app. No document server, files stay .docx, .xlsx and .pptx
+Most of these now live in my organization **[Speicherstadt](https://speicherstadt.app)**: software for small businesses, born from real customer projects, running on your own server.
+
+- 🧾 **[haben](https://github.com/firsttris/haben)** ([website](https://haben.app/)) - Bookkeeping for German freelancers: e-invoices (ZUGFeRD, XRechnung), bank reconciliation, EÜR and VAT returns via ELSTER. A self-hosted alternative to lexoffice and sevDesk
+- 📬 **[kontext](https://github.com/Speicherstadt/kontext)** ([website](https://kontext.email/)) - Groupware for small businesses on Stalwart (JMAP): webmail with shared mailboxes, team calendar, contacts as a mini CRM, tasks, team chat with video calls and Fritzbox telephony. A self-hosted alternative to Google Workspace and Microsoft 365
+- 📝 **[schreibzeug](https://github.com/Speicherstadt/schreibzeug)** ([docs](https://speicherstadt.github.io/schreibzeug/)) - Office suite that edits Word, Excel, PowerPoint and PDF files together in real time, in the browser or as a desktop app. No document server, files stay .docx, .xlsx and .pptx
+- 🗃️ **[belegt](https://github.com/Speicherstadt/belegt)** ([docs](https://speicherstadt.github.io/belegt/)) - Document archive with GoBD mode: e-mails, e-invoices (ZUGFeRD, XRechnung), scans with OCR and any file, immutable until the retention period ends. Hash chain, RFC 3161 timestamps and auditor access
+- 🚁 **[fixpunkt](https://github.com/Speicherstadt/fixpunkt)** ([docs](https://speicherstadt.github.io/fixpunkt/)) - Quantity surveying for earthworks from drone flights and laser scans: excavation and stockpile volumes, target vs. actual, flight planning and PDF reports. One binary with a web UI, no cloud subscription
 
 ### Self-hosted & Homelab
 - 🎛️ **[quadeck](https://github.com/firsttris/quadeck)** - Web UI and server console for Podman Quadlets and systemd: containers, updates, disks, backups, shares. One binary, nothing to configure
 - 🗄️ **[snapraid-ui](https://github.com/firsttris/snapraid-ui)** - Web UI for SnapRAID: scheduled sync and scrub, SMART disk health, alerts and guided disk replacement
 - 🏷️ **[namarr](https://github.com/firsttris/namarr)** - FileBot alternative: renames movies, series and anime for Plex, Jellyfin, Emby and Kodi, with preview and undo
 - 📥 **[haul](https://github.com/firsttris/haul)** - Headless JDownloader and pyLoad alternative for file hosters, written in Rust, with Click'n'Load
-- 🔁 **[stellwerk](https://github.com/firsttris/stellwerk)** - Central web UI for Syncthing: pair devices, share folders and set paths for every PC from one place, with a hub that keeps a full copy
+- 🔁 **[stellwerk](https://github.com/Speicherstadt/stellwerk)** ([docs](https://speicherstadt.github.io/stellwerk/)) - Central web UI for Syncthing: pair devices, share folders and set paths for every PC from one place, with a hub that keeps a full copy
 - 🪁 **[windfenster](https://github.com/firsttris/windfenster)** - Wind forecast and live wind map for kitesurfing, windsurfing and wing foiling: measured wind, five weather models and which one was right at your spot. A self-hosted alternative to Windfinder and Windy
 - 💾 **[spielstand](https://github.com/firsttris/spielstand)** - Game save sync and backup for Linux PCs and the Steam Deck: one server at home, a small agent per PC, every version kept and nothing overwritten. A Ludusavi alternative with a web UI
+- 🐝 **[schwarm](https://github.com/firsttris/schwarm)** - A calm, modern WebUI for qBittorrent on desktop and phone: torrent list with filters, details, context menu and drag & drop. Static files that qBittorrent serves itself, nothing else to run
 
 ### Smart Home
 - 🏠 **[ccu-addon-mui](https://github.com/firsttris/ccu-addon-mui)** - The complete WebUI for Homematic CCU3 and OpenCCU, rebuilt: control, pair, link and program devices, live over WebSocket, installable as an app
@@ -77,7 +82,7 @@ Let's build something that lasts.
 - 📶 **[funkloch](https://github.com/firsttris/funkloch)** - Signal monitor for Zigbee2MQTT and Thread/Matter devices: LQI and RSSI history, mesh map, heatmap and offline alerts. Self-hosted, no cloud
 
 ### Desktop Apps
-- 🍷 **[prefixr](https://github.com/firsttris/prefixr)** - Linux game launcher for Windows games: Wine and Proton prefixes, Proton-GE downloads, per-game tuning and Steam integration. Built with Tauri, Svelte and Rust
+- 🍷 **[laufzeit](https://github.com/firsttris/laufzeit)** ([docs](https://firsttris.github.io/laufzeit/)) - The agentic game launcher for Linux (formerly prefixr): an AI agent adds your Windows games, picks Wine or Proton, fixes the ones that won't start and sorts your library. Proton-GE downloads, MangoHud, Gamescope and Steam artwork. Built with Tauri, Svelte and Rust
 - 🖥️ **[fernsicht](https://github.com/firsttris/fernsicht)** - Low-latency remote desktop and game streaming for Linux: about 10 ms glass-to-glass, AMD, Intel and NVIDIA, Wayland and X11, pair once with a PIN
 - 🔑 **[keybund](https://github.com/firsttris/keybund)** - SSH key manager for Linux and macOS: the right key per GitHub/GitLab account, client and server, the right Git e-mail per folder. Plain OpenSSH and Git config underneath
 - 🎙️ **[pd200x-control](https://github.com/firsttris/pd200x-control)** - Linux app for the Maono PD200X and PD200XS microphone, a MAONO Link alternative: gain, EQ, compressor, limiter and the RGB ring, live level, test recording and a level finder for quiet dynamic mics. Built with Tauri, React and Rust
