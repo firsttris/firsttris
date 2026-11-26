@@ -5,120 +5,80 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Deno](https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=deno&logoColor=white)
-![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
-![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![SolidJS](https://img.shields.io/badge/-SolidJS-2C4F7C?style=flat-square&logo=solid&logoColor=white)
 ![Tauri](https://img.shields.io/badge/-Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Podman](https://img.shields.io/badge/-Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
 
-I’m a **Software Craftsman** with a focus on architecture and developer experience. I enjoy building things that make development less painful and systems more resilient.
-Currently doing some heavy lifting in enterprise environments, but always keeping my hands dirty with Open Source.
+I'm a **Software Craftsman** with a focus on architecture and developer experience. Since 2012 I have been building business software in enterprise environments, and I help teams with architecture, modernization, multi-layer test architecture and agent-based development.
 
-## Specialized Consulting
-
-I help companies bridge the gap between complex requirements and maintainable, high-quality software.
-With enterprise experience since 2012 and deep developer tooling knowledge, I make your codebase an asset, not a liability.
-
-How I can support your team:
-- **Architecture & Strategic Consulting**: expert feedback on system design and scaling modern software ecosystems.
-- **Modernization & Refactoring**: migrate legacy codebases to modern, clean, testable, high-performance stacks.
-- **Developer Experience & Tooling**: build testing and automation infrastructure, drawing on years of maintaining developer tools with over 2 million installs.
-- **Multi-Layer Test Architecture**: unit, integration and end-to-end tests in the CI/CD pipeline that check every change before it goes live.
-- **Agent-Based Development**: bring agents into your development process productively, with clear guardrails, reviews and tests.
-
-📅 **Available for new projects from January 2027.**
-
-Past projects and references: see my [CV](https://cv.teufel-it.de).
-
-Let's build something that lasts.
-
-[![Website](https://img.shields.io/badge/-Let's_talk-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://teufel-it.de) [![Email](https://img.shields.io/badge/-Contact_me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:info@teufel-it.de)
+📅 **Available for new projects from January 2027.** More on [teufel-it.de](https://teufel-it.de), past projects in my [CV](https://cv.teufel-it.de).
 
 ## What I'm known for
 
 🧪 **[vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner)**: run and debug Jest, Vitest, Playwright, Rstest, Bun, Deno and Node.js tests right from VS Code, zero configuration. Maintained since 2017.<br>
-[![Installs](https://vsmarketplacebadges.dev/installs-short/firsttris.vscode-jest-runner.svg)](https://marketplace.visualstudio.com/items?itemName=firsttris.vscode-jest-runner) [![Stars](https://img.shields.io/github/stars/firsttris/vscode-jest-runner?style=flat-square)](https://github.com/firsttris/vscode-jest-runner)
+[![Installs](https://vsmarketplacebadges.dev/installs-short/firsttris.vscode-jest-runner.svg)](https://marketplace.visualstudio.com/items?itemName=firsttris.vscode-jest-runner)
 
-📺 **[SendToKodi](https://github.com/firsttris/plugin.video.sendtokodi)**: play YouTube, Twitch, Vimeo and 1000+ other sites on Kodi via yt-dlp, with a [browser extension](https://github.com/firsttris/chrome.sendtokodi) for Chrome, Firefox and Edge.<br>
-[![Stars](https://img.shields.io/github/stars/firsttris/plugin.video.sendtokodi?style=flat-square)](https://github.com/firsttris/plugin.video.sendtokodi)
+📺 **[SendToKodi](https://github.com/firsttris/plugin.video.sendtokodi)**: play YouTube, Twitch, Vimeo and 1000+ other sites on Kodi via yt-dlp, with a browser extension for Chrome, Firefox and Edge.
 
-## Things I built because I needed them
+## Speicherstadt
 
-### Business Software
-Most of these now live in my organization **[Speicherstadt](https://speicherstadt.app)**: software for small businesses, born from real customer projects, running on your own server.
+Business software for small businesses, born from real customer projects, running on your own server. All apps on **[speicherstadt.org](https://speicherstadt.org/)**.
 
-- 🧾 **[haben](https://github.com/firsttris/haben)** ([website](https://haben.app/)) - Bookkeeping for German freelancers: e-invoices (ZUGFeRD, XRechnung), bank reconciliation, EÜR and VAT returns via ELSTER. A self-hosted alternative to lexoffice and sevDesk
-- 📬 **[kontext](https://github.com/Speicherstadt/kontext)** ([website](https://kontext.email/)) - Groupware for small businesses on Stalwart (JMAP): webmail with shared mailboxes, team calendar, contacts as a mini CRM, tasks, team chat with video calls and Fritzbox telephony. A self-hosted alternative to Google Workspace and Microsoft 365
-- 📝 **[schreibzeug](https://github.com/Speicherstadt/schreibzeug)** ([docs](https://speicherstadt.github.io/schreibzeug/)) - Office suite that edits Word, Excel, PowerPoint and PDF files together in real time, in the browser or as a desktop app. No document server, files stay .docx, .xlsx and .pptx
-- 🗃️ **[belegt](https://github.com/Speicherstadt/belegt)** ([docs](https://speicherstadt.github.io/belegt/)) - Document archive with GoBD mode: e-mails, e-invoices (ZUGFeRD, XRechnung), scans with OCR and any file, immutable until the retention period ends. Hash chain, RFC 3161 timestamps and auditor access
-- 🚁 **[fixpunkt](https://github.com/Speicherstadt/fixpunkt)** ([docs](https://speicherstadt.github.io/fixpunkt/)) - Quantity surveying for earthworks from drone flights and laser scans: excavation and stockpile volumes, target vs. actual, flight planning and PDF reports. One binary with a web UI, no cloud subscription
+- 🧾 **[Haben](https://haben.app/)**: bookkeeping for German freelancers: e-invoices, bank reconciliation, EÜR and VAT returns via ELSTER. An alternative to lexoffice and sevDesk
+- 📬 **[Kontext](https://kontext.email/)**: groupware with shared mailboxes, team calendar, contacts, tasks, team chat and telephony. An alternative to Google Workspace and Microsoft 365
+- 📝 **[Schreibzeug](https://schreibzeug.app/)**: office suite for Word, Excel, PowerPoint and PDF, edited together in real time, in the browser or as a desktop app
+- 🗃️ **[Belegt](https://belegt.store/)**: document archive with GoBD mode: e-mails, e-invoices, scans and any file, immutable until the retention period ends
+- 🚁 **[Fixpunkt](https://speicherstadt.org/fixpunkt/)**: quantity surveying for earthworks from drone flights and laser scans
 
-### Self-hosted & Homelab
-- 🎛️ **[quadeck](https://github.com/firsttris/quadeck)** - Web UI and server console for Podman Quadlets and systemd: containers, updates, disks, backups, shares. One binary, nothing to configure
-- 🗄️ **[snapraid-ui](https://github.com/firsttris/snapraid-ui)** - Web UI for SnapRAID: scheduled sync and scrub, SMART disk health, alerts and guided disk replacement
-- 🏷️ **[namarr](https://github.com/firsttris/namarr)** - FileBot alternative: renames movies, series and anime for Plex, Jellyfin, Emby and Kodi, with preview and undo
-- 📥 **[haul](https://github.com/firsttris/haul)** - Headless JDownloader and pyLoad alternative for file hosters, written in Rust, with Click'n'Load
-- 🔁 **[stellwerk](https://github.com/Speicherstadt/stellwerk)** ([docs](https://speicherstadt.github.io/stellwerk/)) - Central web UI for Syncthing: pair devices, share folders and set paths for every PC from one place, with a hub that keeps a full copy
-- 🪁 **[windfenster](https://github.com/firsttris/windfenster)** - Wind forecast and live wind map for kitesurfing, windsurfing and wing foiling: measured wind, five weather models and which one was right at your spot. A self-hosted alternative to Windfinder and Windy
-- 💾 **[spielstand](https://github.com/firsttris/spielstand)** - Game save sync and backup for Linux PCs and the Steam Deck: one server at home, a small agent per PC, every version kept and nothing overwritten. A Ludusavi alternative with a web UI
-- 🐝 **[schwarm](https://github.com/firsttris/schwarm)** - A calm, modern WebUI for qBittorrent on desktop and phone: torrent list with filters, details, context menu and drag & drop. Static files that qBittorrent serves itself, nothing else to run
-
-### Smart Home
-- 🏠 **[ccu-addon-mui](https://github.com/firsttris/ccu-addon-mui)** - The complete WebUI for Homematic CCU3 and OpenCCU, rebuilt: control, pair, link and program devices, live over WebSocket, installable as an app
-- 🧱 **[kachelwerk](https://github.com/firsttris/kachelwerk)** - Home Assistant cards that feel like an app: shutters you drag like a window, lamps that light up their tile, a thermostat dial, a Ferraris meter whose disc turns with your power. Installable via HACS
-- ⚡ **[esphome-energy-dashboard](https://github.com/firsttris/esphome-energy-dashboard)** - Live energy flow (solar, grid, battery, gas) on an ESP32-S3 touch display
-- 🎛️ **[esphome-room-panel](https://github.com/firsttris/esphome-room-panel)** - Animated room control panel for Home Assistant on a 4" ESP32-S3 touch display: lights, shutters, Daikin AC and heating, one YAML line per device
-- 🏡 **[esphome-house-panel](https://github.com/firsttris/esphome-house-panel)** - Your whole house as a living cross-section on a 7" ESP32-P4 display: temperature-coloured rooms, glowing windows, shutters, floor heating and animated energy flow. Tap a room to control it
-- 🧵 **[esp32c6-thread-router](https://github.com/firsttris/esp32c6-thread-router)** - Turn a cheap ESP32-C6 into a Thread router to extend your mesh
-- 📡 **[esp32c6-zigbee-router](https://github.com/firsttris/esp32c6-zigbee-router)** - Turn a cheap ESP32-C6 into a Zigbee router to extend your mesh
-- 📶 **[funkloch](https://github.com/firsttris/funkloch)** - Signal monitor for Zigbee2MQTT and Thread/Matter devices: LQI and RSSI history, mesh map, heatmap and offline alerts. Self-hosted, no cloud
-
-### Desktop Apps
-- 🍷 **[laufzeit](https://github.com/firsttris/laufzeit)** ([docs](https://firsttris.github.io/laufzeit/)) - The agentic game launcher for Linux (formerly prefixr): an AI agent adds your Windows games, picks Wine or Proton, fixes the ones that won't start and sorts your library. Proton-GE downloads, MangoHud, Gamescope and Steam artwork. Built with Tauri, Svelte and Rust
-- 🖥️ **[fernsicht](https://github.com/firsttris/fernsicht)** - Low-latency remote desktop and game streaming for Linux: about 10 ms glass-to-glass, AMD, Intel and NVIDIA, Wayland and X11, pair once with a PIN
-- 🔑 **[keybund](https://github.com/firsttris/keybund)** - SSH key manager for Linux and macOS: the right key per GitHub/GitLab account, client and server, the right Git e-mail per folder. Plain OpenSSH and Git config underneath
-- 🎙️ **[pd200x-control](https://github.com/firsttris/pd200x-control)** - Linux app for the Maono PD200X and PD200XS microphone, a MAONO Link alternative: gain, EQ, compressor, limiter and the RGB ring, live level, test recording and a level finder for quiet dynamic mics. Built with Tauri, React and Rust
-
-### Web Apps
-- 💨 **[reactive-volcano-app](https://github.com/firsttris/reactive-volcano-app)** - Web Bluetooth app for Storz & Bickel vaporizers (Volcano Hybrid, Venty, Veazy, Crafty). No app store, no account
-- 🌊 **[Flugwetterdaten](https://github.com/firsttris/Flugwetterdaten)** - Wind, water temperature and water level for my wingfoil spot at Baden-Airpark ([live](https://wetter.teufel-it.de))
-- 📄 **[astro-cv](https://github.com/firsttris/astro-cv)** - My CV as a website, built with Astro and MDX ([live](https://cv.teufel-it.de))
-- 🌐 **[teufel-it-astro](https://github.com/firsttris/teufel-it-astro)** - Bilingual Teufel IT website with Astro, Tailwind and a WebGL starfield ([live](https://teufel-it.de))
-
-### VS Code Extensions
-- 🧪 **[vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner)** - Run and debug tests for all major JS runtimes and frameworks from your editor
-- 📦 **[vscode-distrobox-reveal](https://github.com/firsttris/vscode-distrobox-reveal)** - Reveal files in the host's file manager from inside Distrobox containers
-- 🗣️ **[vscode-speech-language-switch](https://github.com/firsttris/vscode-speech-language-switch)** - Switch the VS Code speech recognition language from the status bar
-
-### Browser Extensions
-- 🎬 **[chrome.sendtokodi](https://github.com/firsttris/chrome.sendtokodi)** - Send the video you're watching to Kodi with one click (Chrome, Firefox, Edge)
-- 🧹 **[oneclickhistorycleaner](https://github.com/firsttris/oneclickhistorycleaner)** - Clear your browsing data with one click, the way you configured it once (Chrome, Firefox, Edge)
-
-### Kodi Add-ons
-- 📺 **[plugin.video.sendtokodi](https://github.com/firsttris/plugin.video.sendtokodi)** - Play links from 1000+ sites on Kodi using yt-dlp, up to 4K
-- 🏠 **[repository.sendtokodi](https://github.com/firsttris/repository.sendtokodi)** - Kodi repository for SendToKodi
-
-### Tools
-- ⚙️ **[workflows](https://github.com/firsttris/workflows)** - Shared GitHub Actions for multi-arch Docker releases (amd64 + native arm64), used across my projects
-- 📞 **[snom-xml](https://github.com/firsttris/snom-xml)** - Sync Google Contacts to Snom IP phones via XML
+## More things I built because I needed them
 
 <details>
-<summary><b>Archived Projects</b></summary>
+<summary><b>Self-hosted & Homelab</b></summary>
 
-- 📡 **[mfrc522-rpi](https://github.com/firsttris/mfrc522-rpi)** - MFRC522 RFID control library for Raspberry Pi
-- 📦 **[html-webpack-multi-build-plugin](https://github.com/firsttris/html-webpack-multi-build-plugin)** - Webpack plugin for modern/legacy dual builds
-- 🏠 **[node-red-contrib-homematic](https://github.com/firsttris/node-red-contrib-homematic)** - Node-RED nodes for Homematic devices
-- 💾 **[urbackup-docker](https://github.com/firsttris/urbackup-docker)** - Docker image for UrBackup server
-- ⏱️ **[react-track](https://github.com/firsttris/react-track)** - Time tracking app with simple reporting
-- 📹 **[chrome.ipcamviewer](https://github.com/firsttris/chrome.ipcamviewer)** - Chrome IP camera viewer and monitor
+- 🎛️ **[quadeck](https://github.com/firsttris/quadeck)**: web UI and server console for Podman Quadlets and systemd
+- 🗄️ **[snapraid-ui](https://github.com/firsttris/snapraid-ui)**: web UI for SnapRAID with scheduled sync, SMART health and guided disk replacement
+- 🏷️ **[namarr](https://github.com/firsttris/namarr)**: FileBot alternative that renames movies, series and anime for Plex, Jellyfin, Emby and Kodi
+- 📥 **[haul](https://github.com/firsttris/haul)**: headless JDownloader and pyLoad alternative, written in Rust
+- 🔁 **[Stellwerk](https://speicherstadt.org/stellwerk/)**: central web UI for Syncthing
+- 🪁 **[windfenster](https://github.com/firsttris/windfenster)**: wind forecast and live wind map for kitesurfing, windsurfing and wing foiling
+- 💾 **[spielstand](https://github.com/firsttris/spielstand)**: game save sync and backup for Linux PCs and the Steam Deck
+- 🐝 **[schwarm](https://github.com/firsttris/schwarm)**: a calm, modern web UI for qBittorrent
+
+</details>
+
+<details>
+<summary><b>Smart Home</b></summary>
+
+- 🏠 **[ccu-addon-mui](https://github.com/firsttris/ccu-addon-mui)**: the complete web UI for Homematic CCU3 and OpenCCU, rebuilt
+- 🧱 **[kachelwerk](https://github.com/firsttris/kachelwerk)**: Home Assistant cards that feel like an app
+- ⚡ **[esphome-energy-dashboard](https://github.com/firsttris/esphome-energy-dashboard)**: live energy flow on an ESP32-S3 touch display
+- 🎛️ **[esphome-room-panel](https://github.com/firsttris/esphome-room-panel)**: animated room control panel for Home Assistant on a 4" display
+- 🏡 **[esphome-house-panel](https://github.com/firsttris/esphome-house-panel)**: your whole house as a living cross-section on a 7" display
+- 🧵 **[esp32c6-thread-router](https://github.com/firsttris/esp32c6-thread-router)**: turn a cheap ESP32-C6 into a Thread router
+- 📡 **[esp32c6-zigbee-router](https://github.com/firsttris/esp32c6-zigbee-router)**: turn a cheap ESP32-C6 into a Zigbee router
+- 📶 **[funkloch](https://github.com/firsttris/funkloch)**: signal monitor for Zigbee2MQTT and Thread/Matter devices
+
+</details>
+
+<details>
+<summary><b>Desktop Apps</b></summary>
+
+- 🍷 **[laufzeit](https://github.com/firsttris/laufzeit)**: the agentic game launcher for Linux (formerly prefixr)
+- 🖥️ **[fernsicht](https://github.com/firsttris/fernsicht)**: low-latency remote desktop and game streaming for Linux
+- 🔑 **[keybund](https://github.com/firsttris/keybund)**: SSH key manager for Linux and macOS
+- 🎙️ **[pd200x-control](https://github.com/firsttris/pd200x-control)**: Linux app for the Maono PD200X and PD200XS microphone
+
+</details>
+
+<details>
+<summary><b>Web Apps, Extensions & Tools</b></summary>
+
+- 💨 **[reactive-volcano-app](https://github.com/firsttris/reactive-volcano-app)**: Web Bluetooth app for Storz & Bickel vaporizers
+- 📦 **[vscode-distrobox-reveal](https://github.com/firsttris/vscode-distrobox-reveal)**: reveal files in the host's file manager from inside Distrobox
+- 🗣️ **[vscode-speech-language-switch](https://github.com/firsttris/vscode-speech-language-switch)**: switch the VS Code speech recognition language from the status bar
+- 🧹 **[oneclickhistorycleaner](https://github.com/firsttris/oneclickhistorycleaner)**: clear your browsing data with one click
+- ⚙️ **[workflows](https://github.com/firsttris/workflows)**: shared GitHub Actions for multi-arch Docker releases
+- 📞 **[snom-xml](https://github.com/firsttris/snom-xml)**: sync Google Contacts to Snom IP phones
 
 </details>
 
@@ -127,7 +87,7 @@ Most of these now live in my organization **[Speicherstadt](https://speicherstad
 [![Website](https://img.shields.io/badge/-teufel--it.de-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://teufel-it.de)
 [![CV](https://img.shields.io/badge/-CV-4CAF50?style=flat-square&logo=read-the-docs&logoColor=white)](https://cv.teufel-it.de)
 [![LinkedIn](https://img.shields.io/badge/-Tristan_Teufel-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tristanteufel)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/firsttris)
+[![Email](https://img.shields.io/badge/-info@teufel--it.de-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:info@teufel-it.de)
 
 ## Off the keyboard
 
