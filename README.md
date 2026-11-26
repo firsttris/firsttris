@@ -15,20 +15,23 @@ I'm a **Software Craftsman** with a focus on architecture and developer experien
 
 ## What I'm known for
 
-🧪 **[vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner)**: run and debug Jest, Vitest, Playwright, Rstest, Bun, Deno and Node.js tests right from VS Code, zero configuration. Maintained since 2017.<br>
-[![Installs](https://vsmarketplacebadges.dev/installs-short/firsttris.vscode-jest-runner.svg)](https://marketplace.visualstudio.com/items?itemName=firsttris.vscode-jest-runner)
+🧾 **[Haben](https://github.com/Speicherstadt/haben)**: bookkeeping for German freelancers and small businesses: e-invoices, bank reconciliation, EÜR and VAT returns via ELSTER. Self-hosted alternative to lexoffice and sevDesk.<br>
+[![Stars](https://img.shields.io/github/stars/Speicherstadt/haben?style=flat-square)](https://github.com/Speicherstadt/haben) [![Docker Pulls](https://img.shields.io/docker/pulls/tristanteu/haben?style=flat-square)](https://hub.docker.com/r/tristanteu/haben)
 
-📺 **[SendToKodi](https://github.com/firsttris/plugin.video.sendtokodi)**: play YouTube, Twitch, Vimeo and 1000+ other sites on Kodi via yt-dlp, with a browser extension for Chrome, Firefox and Edge.
+🧪 **[vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner)**: run and debug Jest, Vitest, Playwright, Rstest, Bun, Deno and Node.js tests right from VS Code, zero configuration. Maintained since 2017.<br>
+[![Stars](https://img.shields.io/github/stars/firsttris/vscode-jest-runner?style=flat-square)](https://github.com/firsttris/vscode-jest-runner) [![Installs](https://vsmarketplacebadges.dev/installs-short/firsttris.vscode-jest-runner.svg)](https://marketplace.visualstudio.com/items?itemName=firsttris.vscode-jest-runner)
+
+📺 **[SendToKodi](https://github.com/firsttris/plugin.video.sendtokodi)**: play YouTube, Twitch, Vimeo and 1000+ other sites on Kodi via yt-dlp, with a [browser extension](https://github.com/firsttris/chrome.sendtokodi) for Chrome, Firefox and Edge.<br>
+[![Stars](https://img.shields.io/github/stars/firsttris/plugin.video.sendtokodi?style=flat-square)](https://github.com/firsttris/plugin.video.sendtokodi) [![Chrome Users](https://img.shields.io/chrome-web-store/users/gbcpfpcacakaadapjcdchbdmdnfbnbaf?style=flat-square&label=Chrome%20users)](https://chrome.google.com/webstore/detail/sendtokodi/gbcpfpcacakaadapjcdchbdmdnfbnbaf) [![Firefox Users](https://img.shields.io/amo/users/sendtokodi?style=flat-square&label=Firefox%20users)](https://addons.mozilla.org/firefox/addon/sendtokodi/)
 
 ## Speicherstadt
 
-Business software for small businesses, born from real customer projects, running on your own server. All apps on **[speicherstadt.org](https://speicherstadt.org/)**.
+Business software for small businesses, born from real customer projects, running on your own server with Docker. All apps on **[speicherstadt.org](https://speicherstadt.org/)**.
 
-- 🧾 **[Haben](https://haben.app/)**: bookkeeping for German freelancers: e-invoices, bank reconciliation, EÜR and VAT returns via ELSTER. An alternative to lexoffice and sevDesk
-- 📬 **[Kontext](https://kontext.email/)**: groupware with shared mailboxes, team calendar, contacts, tasks, team chat and telephony. An alternative to Google Workspace and Microsoft 365
-- 📝 **[Schreibzeug](https://schreibzeug.app/)**: office suite for Word, Excel, PowerPoint and PDF, edited together in real time, in the browser or as a desktop app
-- 🗃️ **[Belegt](https://belegt.store/)**: document archive with GoBD mode: e-mails, e-invoices, scans and any file, immutable until the retention period ends
-- 🚁 **[Fixpunkt](https://speicherstadt.org/fixpunkt/)**: quantity surveying for earthworks from drone flights and laser scans
+- 🧾 **[Haben](https://haben.app/)** `Beta`: bookkeeping from e-invoice to ELSTER: receipts, bank reconciliation, EÜR or balance sheet, tax returns. GoBD-compliant, with DATEV export
+- 🗃️ **[Belegt](https://belegt.store/)** `Beta`: audit-proof document archive with GoBD mode: e-mails, e-invoices, scans with OCR. Immutable until the end of the retention period
+- 📬 **[Kontext](https://kontext.email/)** `Beta`: mail, calendar, contacts, tasks and team chat, with video calls and Fritzbox telephony. The alternative to Google Workspace and Microsoft 365
+- 📝 **[Schreibzeug](https://schreibzeug.app/)** `Beta`: Word, Excel, PowerPoint and PDF edited together in real time, in the browser or as a desktop app. Files stay .docx, .xlsx and .pptx
 
 ## More things I built because I needed them
 
