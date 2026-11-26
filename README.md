@@ -26,13 +26,14 @@ I'm a **Software Craftsman** with a focus on architecture and developer experien
 
 ## Speicherstadt
 
-Business software for small businesses, born from real customer projects, running on your own server. All apps on **[speicherstadt.org](https://speicherstadt.org/)**.
+Business software for small businesses, born from real customer projects, running on your own server with Docker. All apps on **[speicherstadt.org](https://speicherstadt.org/)**.
 
-- 🧾 **[Haben](https://haben.app/)**: bookkeeping for German freelancers: e-invoices, bank reconciliation, EÜR and VAT returns via ELSTER. An alternative to lexoffice and sevDesk
-- 📬 **[Kontext](https://kontext.email/)**: groupware with shared mailboxes, team calendar, contacts, tasks, team chat and telephony. An alternative to Google Workspace and Microsoft 365
-- 📝 **[Schreibzeug](https://schreibzeug.app/)**: office suite for Word, Excel, PowerPoint and PDF, edited together in real time, in the browser or as a desktop app
-- 🗃️ **[Belegt](https://belegt.store/)**: document archive with GoBD mode: e-mails, e-invoices, scans and any file, immutable until the retention period ends
-- 🚁 **[Fixpunkt](https://speicherstadt.org/fixpunkt/)**: quantity surveying for earthworks from drone flights and laser scans
+- 🧾 **[Haben](https://haben.app/)** `Beta`: bookkeeping from e-invoice to ELSTER: receipts, bank reconciliation, EÜR or balance sheet, tax returns. GoBD-compliant, with DATEV export
+- 🗃️ **[Belegt](https://belegt.store/)** `Beta`: audit-proof document archive with GoBD mode: e-mails, e-invoices, scans with OCR. Immutable until the end of the retention period
+- 📬 **[Kontext](https://kontext.email/)** `Beta`: mail, calendar, contacts, tasks and team chat, with video calls and Fritzbox telephony. The alternative to Google Workspace and Microsoft 365
+- 📝 **[Schreibzeug](https://schreibzeug.app/)** `Beta`: Word, Excel, PowerPoint and PDF edited together in real time, in the browser or as a desktop app. Files stay .docx, .xlsx and .pptx
+- 🔁 **[Stellwerk](https://speicherstadt.org/stellwerk/)** `Beta`: keep files up to date on every computer in the company, without cloud or file server
+- 🔐 **[Kennwort](https://kennwort.app/)** `In development`: password manager for teams, end-to-end encrypted, with browser extension and mobile app
 
 ## More things I built because I needed them
 
@@ -43,7 +44,6 @@ Business software for small businesses, born from real customer projects, runnin
 - 🗄️ **[snapraid-ui](https://github.com/firsttris/snapraid-ui)**: web UI for SnapRAID with scheduled sync, SMART health and guided disk replacement
 - 🏷️ **[namarr](https://github.com/firsttris/namarr)**: FileBot alternative that renames movies, series and anime for Plex, Jellyfin, Emby and Kodi
 - 📥 **[haul](https://github.com/firsttris/haul)**: headless JDownloader and pyLoad alternative, written in Rust
-- 🔁 **[Stellwerk](https://speicherstadt.org/stellwerk/)**: central web UI for Syncthing
 - 🪁 **[windfenster](https://github.com/firsttris/windfenster)**: wind forecast and live wind map for kitesurfing, windsurfing and wing foiling
 - 💾 **[spielstand](https://github.com/firsttris/spielstand)**: game save sync and backup for Linux PCs and the Steam Deck
 - 🐝 **[schwarm](https://github.com/firsttris/schwarm)**: a calm, modern web UI for qBittorrent
