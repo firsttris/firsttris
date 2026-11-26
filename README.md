@@ -32,8 +32,6 @@ Business software for small businesses, born from real customer projects, runnin
 - 🗃️ **[Belegt](https://belegt.store/)** `Beta`: audit-proof document archive with GoBD mode: e-mails, e-invoices, scans with OCR. Immutable until the end of the retention period
 - 📬 **[Kontext](https://kontext.email/)** `Beta`: mail, calendar, contacts, tasks and team chat, with video calls and Fritzbox telephony. The alternative to Google Workspace and Microsoft 365
 - 📝 **[Schreibzeug](https://schreibzeug.app/)** `Beta`: Word, Excel, PowerPoint and PDF edited together in real time, in the browser or as a desktop app. Files stay .docx, .xlsx and .pptx
-- 🔁 **[Stellwerk](https://speicherstadt.org/stellwerk/)** `Beta`: keep files up to date on every computer in the company, without cloud or file server
-- 🔐 **[Kennwort](https://kennwort.app/)** `In development`: password manager for teams, end-to-end encrypted, with browser extension and mobile app
 
 ## More things I built because I needed them
 
@@ -44,6 +42,7 @@ Business software for small businesses, born from real customer projects, runnin
 - 🗄️ **[snapraid-ui](https://github.com/firsttris/snapraid-ui)**: web UI for SnapRAID with scheduled sync, SMART health and guided disk replacement
 - 🏷️ **[namarr](https://github.com/firsttris/namarr)**: FileBot alternative that renames movies, series and anime for Plex, Jellyfin, Emby and Kodi
 - 📥 **[haul](https://github.com/firsttris/haul)**: headless JDownloader and pyLoad alternative, written in Rust
+- 🔁 **[Stellwerk](https://speicherstadt.org/stellwerk/)**: central web UI for Syncthing
 - 🪁 **[windfenster](https://github.com/firsttris/windfenster)**: wind forecast and live wind map for kitesurfing, windsurfing and wing foiling
 - 💾 **[spielstand](https://github.com/firsttris/spielstand)**: game save sync and backup for Linux PCs and the Steam Deck
 - 🐝 **[schwarm](https://github.com/firsttris/schwarm)**: a calm, modern web UI for qBittorrent
