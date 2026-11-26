@@ -15,10 +15,14 @@ I'm a **Software Craftsman** with a focus on architecture and developer experien
 
 ## What I'm known for
 
-🧪 **[vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner)**: run and debug Jest, Vitest, Playwright, Rstest, Bun, Deno and Node.js tests right from VS Code, zero configuration. Maintained since 2017.<br>
-[![Installs](https://vsmarketplacebadges.dev/installs-short/firsttris.vscode-jest-runner.svg)](https://marketplace.visualstudio.com/items?itemName=firsttris.vscode-jest-runner)
+🧾 **[Haben](https://github.com/Speicherstadt/haben)**: bookkeeping for German freelancers and small businesses: e-invoices, bank reconciliation, EÜR and VAT returns via ELSTER. Self-hosted alternative to lexoffice and sevDesk.<br>
+[![Stars](https://img.shields.io/github/stars/Speicherstadt/haben?style=flat-square)](https://github.com/Speicherstadt/haben) [![Docker Pulls](https://img.shields.io/docker/pulls/tristanteu/haben?style=flat-square)](https://hub.docker.com/r/tristanteu/haben)
 
-📺 **[SendToKodi](https://github.com/firsttris/plugin.video.sendtokodi)**: play YouTube, Twitch, Vimeo and 1000+ other sites on Kodi via yt-dlp, with a browser extension for Chrome, Firefox and Edge.
+🧪 **[vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner)**: run and debug Jest, Vitest, Playwright, Rstest, Bun, Deno and Node.js tests right from VS Code, zero configuration. Maintained since 2017.<br>
+[![Stars](https://img.shields.io/github/stars/firsttris/vscode-jest-runner?style=flat-square)](https://github.com/firsttris/vscode-jest-runner) [![Installs](https://vsmarketplacebadges.dev/installs-short/firsttris.vscode-jest-runner.svg)](https://marketplace.visualstudio.com/items?itemName=firsttris.vscode-jest-runner)
+
+📺 **[SendToKodi](https://github.com/firsttris/plugin.video.sendtokodi)**: play YouTube, Twitch, Vimeo and 1000+ other sites on Kodi via yt-dlp, with a [browser extension](https://github.com/firsttris/chrome.sendtokodi) for Chrome, Firefox and Edge.<br>
+[![Stars](https://img.shields.io/github/stars/firsttris/plugin.video.sendtokodi?style=flat-square)](https://github.com/firsttris/plugin.video.sendtokodi) [![Chrome Users](https://img.shields.io/chrome-web-store/users/gbcpfpcacakaadapjcdchbdmdnfbnbaf?style=flat-square&label=Chrome%20users)](https://chrome.google.com/webstore/detail/sendtokodi/gbcpfpcacakaadapjcdchbdmdnfbnbaf) [![Firefox Users](https://img.shields.io/amo/users/sendtokodi?style=flat-square&label=Firefox%20users)](https://addons.mozilla.org/firefox/addon/sendtokodi/)
 
 ## Speicherstadt
 
