@@ -36,6 +36,7 @@ Business software for small businesses, born from real customer projects, runnin
 - 📬 **[Kontext](https://github.com/Speicherstadt/kontext)** ([website](https://kontext.email/) · [demo](https://kontext.email/demo/)) `Beta`: mail, calendar, contacts, tasks and team chat, with video calls and Fritzbox telephony. The alternative to Google Workspace and Microsoft 365
 - 📝 **[Schreibzeug](https://github.com/Speicherstadt/schreibzeug)** ([website](https://schreibzeug.app/) · [demo](https://schreibzeug.app/demo/)) `Beta`: Word, Excel, PowerPoint and PDF edited together in real time, in the browser or as a desktop app. Files stay .docx, .xlsx and .pptx
 - ⏱️ **[Soll](https://github.com/Speicherstadt/soll)** ([website](https://soll.work/) · [demo](https://soll.work/demo/)) `In development`: time tracking and shift planning for small businesses: clock in from the web, phone or tablet, checks against the German Working Hours Act, DATEV payroll export
+- 🔐 **[Kennwort](https://github.com/Speicherstadt/kennwort)** ([website](https://kennwort.app/) · [demo](https://kennwort.app/demo/)) `In development`: end-to-end encrypted password manager for teams, with post-quantum protection, browser extension, Android app and CLI
 
 ## More things I built because I needed them
 
