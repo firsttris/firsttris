@@ -35,6 +35,7 @@ Business software for small businesses, born from real customer projects, runnin
 - 🗃️ **[Belegt](https://belegt.store/)** `Beta`: audit-proof document archive with GoBD mode: e-mails, e-invoices, scans with OCR. Immutable until the end of the retention period
 - 📬 **[Kontext](https://kontext.email/)** `Beta`: mail, calendar, contacts, tasks and team chat, with video calls and Fritzbox telephony. The alternative to Google Workspace and Microsoft 365
 - 📝 **[Schreibzeug](https://schreibzeug.app/)** `Beta`: Word, Excel, PowerPoint and PDF edited together in real time, in the browser or as a desktop app. Files stay .docx, .xlsx and .pptx
+- ⏱️ **[Soll](https://soll.work/)** `In development`: time tracking and shift planning for small businesses: clock in from the web, phone or tablet, checks against the German Working Hours Act, DATEV payroll export
 
 ## More things I built because I needed them
 
