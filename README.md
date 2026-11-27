@@ -31,11 +31,12 @@ I'm a **Software Craftsman** with a focus on architecture and developer experien
 
 Business software for small businesses, born from real customer projects, running on your own server with Docker. All apps on **[speicherstadt.org](https://speicherstadt.org/)**.
 
-- 🧾 **[Haben](https://haben.app/)** `Beta`: bookkeeping from e-invoice to ELSTER: receipts, bank reconciliation, EÜR or balance sheet, tax returns. GoBD-compliant, with DATEV export
-- 🗃️ **[Belegt](https://belegt.store/)** `Beta`: audit-proof document archive with GoBD mode: e-mails, e-invoices, scans with OCR. Immutable until the end of the retention period
-- 📬 **[Kontext](https://kontext.email/)** `Beta`: mail, calendar, contacts, tasks and team chat, with video calls and Fritzbox telephony. The alternative to Google Workspace and Microsoft 365
-- 📝 **[Schreibzeug](https://schreibzeug.app/)** `Beta`: Word, Excel, PowerPoint and PDF edited together in real time, in the browser or as a desktop app. Files stay .docx, .xlsx and .pptx
-- ⏱️ **[Soll](https://soll.work/)** `In development`: time tracking and shift planning for small businesses: clock in from the web, phone or tablet, checks against the German Working Hours Act, DATEV payroll export
+- 🧾 **[Haben](https://github.com/Speicherstadt/haben)** ([website](https://haben.app/)) `Beta`: bookkeeping from e-invoice to ELSTER: receipts, bank reconciliation, EÜR or balance sheet, tax returns. GoBD-compliant, with DATEV export
+- 🗃️ **[Belegt](https://github.com/Speicherstadt/belegt)** ([website](https://belegt.store/) · [demo](https://belegt.store/demo/)) `Beta`: audit-proof document archive with GoBD mode: e-mails, e-invoices, scans with OCR. Immutable until the end of the retention period
+- 📬 **[Kontext](https://github.com/Speicherstadt/kontext)** ([website](https://kontext.email/) · [demo](https://kontext.email/demo/)) `Beta`: mail, calendar, contacts, tasks and team chat, with video calls and Fritzbox telephony. The alternative to Google Workspace and Microsoft 365
+- 📝 **[Schreibzeug](https://github.com/Speicherstadt/schreibzeug)** ([website](https://schreibzeug.app/) · [demo](https://schreibzeug.app/demo/)) `Beta`: Word, Excel, PowerPoint and PDF edited together in real time, in the browser or as a desktop app. Files stay .docx, .xlsx and .pptx
+- ⏱️ **[Soll](https://github.com/Speicherstadt/soll)** ([website](https://soll.work/) · [demo](https://soll.work/demo/)) `In development`: time tracking and shift planning for small businesses: clock in from the web, phone or tablet, checks against the German Working Hours Act, DATEV payroll export
+- 🔐 **[Kennwort](https://github.com/Speicherstadt/kennwort)** ([website](https://kennwort.app/) · [demo](https://kennwort.app/demo/)) `In development`: end-to-end encrypted password manager for teams, with post-quantum protection, browser extension, Android app and CLI
 
 ## More things I built because I needed them
 
@@ -46,7 +47,7 @@ Business software for small businesses, born from real customer projects, runnin
 - 🗄️ **[snapraid-ui](https://github.com/firsttris/snapraid-ui)**: web UI for SnapRAID with scheduled sync, SMART health and guided disk replacement
 - 🏷️ **[namarr](https://github.com/firsttris/namarr)**: FileBot alternative that renames movies, series and anime for Plex, Jellyfin, Emby and Kodi
 - 📥 **[haul](https://github.com/firsttris/haul)**: headless JDownloader and pyLoad alternative, written in Rust
-- 🔁 **[Stellwerk](https://speicherstadt.org/stellwerk/)**: central web UI for Syncthing
+- 🔁 **[Stellwerk](https://github.com/Speicherstadt/stellwerk)** ([website](https://speicherstadt.org/stellwerk/) · [demo](https://speicherstadt.org/stellwerk/demo/)): central web UI for Syncthing
 - 🪁 **[windfenster](https://github.com/firsttris/windfenster)**: wind forecast and live wind map for kitesurfing, windsurfing and wing foiling
 - 💾 **[spielstand](https://github.com/firsttris/spielstand)**: game save sync and backup for Linux PCs and the Steam Deck
 - 🐝 **[schwarm](https://github.com/firsttris/schwarm)**: a calm, modern web UI for qBittorrent
